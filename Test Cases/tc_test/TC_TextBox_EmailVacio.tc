@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_TextBox_EmailVacio</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65fc67a4-e2ea-4868-98ef-48155405d85c</testCaseGuid>
+</TestCaseEntity>

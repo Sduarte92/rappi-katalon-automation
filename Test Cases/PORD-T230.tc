@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar que aparezca el apartado de OnTop al crear pedido</description>
+   <name>PORD-T230</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4fa6299c-f343-4cf0-aaa0-f3454b5db2cd</testCaseGuid>
+</TestCaseEntity>

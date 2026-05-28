@@ -1,0 +1,10 @@
+Reports/
+bin/
+build/
+.cache/
+.settings/
+console.properties
+appium.log
+*.log
+.DS_Store
+Libs/S0*.groovy
