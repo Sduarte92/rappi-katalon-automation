@@ -1,4 +1,4 @@
-# Rappi Mobile Automation — Katalon Studio
+# Mobile Automation — Katalon Studio
 
 > **Mobile test automation project developed at Rappi** using Katalon Studio + Appium for Android. Automates critical user flows in the Rappi Consumer app: login, order tracking, and OnTop feature validation.
 
